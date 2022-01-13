@@ -13,11 +13,11 @@ Acesse o [Google Colab](https://colab.research.google.com/) e:
 ```
 1. clique em 'File' >> 'Open notebook'
 2. selecione a aba 'Github'
-3. coloque Github URL: https://github.com/claudiovaliense/ibd
+3. coloque Github URL: https://github.com/GiovannaR/ibd
 
 ``` 
 
-![alt text](https://github.com/claudiovaliense/ibd/blob/main/data/google_colab_github.png?raw=true "Logo Title Text 1")
+![alt text](https://github.com/GiovannaR/ibd/blob/main/data/google_colab_github.png?raw=true "Logo Title Text 1")
 
 Será exibido todos os notebooks presentes neste repositório.
 
